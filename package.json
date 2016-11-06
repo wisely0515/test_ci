@@ -1,0 +1,22 @@
+{
+  "name": "test_ci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wisely0515/test_ci.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wisely0515/test_ci/issues"
+  },
+  "homepage": "https://github.com/wisely0515/test_ci#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
